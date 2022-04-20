@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_airship",
-    "path": "sprites/spr_airship/spr_airship.yy",
+    "name": "spr_direction",
+    "path": "sprites/spr_direction/spr_direction.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,7 +22,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_player",
+  "name": "obj_direction",
   "tags": [],
   "resourceType": "GMObject",
 }

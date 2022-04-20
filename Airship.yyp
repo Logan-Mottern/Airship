@@ -1,8 +1,10 @@
 {
   "resources": [
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_direction","path":"objects/obj_direction/obj_direction.yy",},"order":1,},
     {"id":{"name":"spr_ocean","path":"sprites/spr_ocean/spr_ocean.yy",},"order":2,},
     {"id":{"name":"spr_airship","path":"sprites/spr_airship/spr_airship.yy",},"order":1,},
+    {"id":{"name":"spr_direction","path":"sprites/spr_direction/spr_direction.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
